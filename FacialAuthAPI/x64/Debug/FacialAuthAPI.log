@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\schellch\source\repos\facialauthapi\facialauthapi\main.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\schellch\source\repos\facialauthapi\facialauthapi\main.cpp(126): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  FacialAuthAPI.vcxproj -> C:\Users\schellch\source\repos\FacialAuthAPI\x64\Debug\FacialAuthAPI.exe

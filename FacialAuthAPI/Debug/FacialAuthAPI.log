@@ -1,0 +1,13 @@
+﻿  FacialDetection.cpp
+c:\users\schellch\source\repos\facialauthapi\facialauthapi\facialdetection.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\schellch\source\repos\facialauthapi\facialauthapi\facialdetection.cpp(39): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\schellch\source\repos\facialauthapi\facialauthapi\facialdetection.cpp(40): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+opencv_world343d.lib(opencv_world343d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
